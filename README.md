@@ -23,4 +23,3 @@ layer(fmap) # (2, 2048, 32, 32)
     archivePrefix = {arXiv},
     primaryClass = {cs.CV}
 }
-```
